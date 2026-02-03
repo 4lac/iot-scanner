@@ -1,4 +1,4 @@
-# IoT-Scanner
+#🧩 IoT-Scanner
 A multi‑stage IoT network scanning and device‑response framework designed to discover, analyze, and eventually isolate IoT devices based on behavior, protocols, and risk level.
 
 ---
