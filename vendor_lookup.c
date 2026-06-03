@@ -97,7 +97,7 @@ void load_oui_database(const char *filename) {
             *comma = '\0';
             strncpy(oui_list[oui_count].prefix, line, sizeof(oui_list[oui_count].prefix));
             strncpy(oui_list[oui_count].vendor, comma + 1, sizeof(oui_list[oui_count].vendor));
-            -printf("[DEBUG] Loaded OUI: %s → %s\n", oui_list[oui_count].prefix, oui_list[oui_count].vendor);//hereee
+            printf("[DEBUG] Loaded OUI: %s → %s\n", oui_list[oui_count].prefix, oui_list[oui_count].vendor);//hereee
             oui_count++;
         }
     }
