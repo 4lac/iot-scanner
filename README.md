@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="IoT-Scanner Logo" width="320"/>
+</p>
+
 # 🧩IoT-Scanner
 A multi‑stage IoT network scanning and device‑response framework designed to discover, analyze, and eventually isolate IoT devices based on behavior, protocols, and risk level.
 
