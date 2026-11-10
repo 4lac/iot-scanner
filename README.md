@@ -2,6 +2,7 @@
 <p align="center">
   <img src="logo.png" alt="IoT-Scanner Logo" width="320"/>
 </p>
+<p align="center"><b>Part of <a href="https://github.com/4lac">❄️ R/ICE Tools</a></b> — a collection of security tools by Reyof</p>
 
 A multi‑stage IoT network scanning and device‑response framework designed to discover, analyze, and eventually isolate IoT devices based on behavior, protocols, and risk level.
 
