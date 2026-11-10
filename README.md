@@ -1,4 +1,3 @@
-
 # 🧩IoT-Scanner
 <p align="center">
   <img src="logo.png" alt="IoT-Scanner Logo" width="320"/>
@@ -112,14 +111,13 @@ These features are experimental and extremely challenging, but they represent th
 
 ---
 
-## ⚖️ Legal Notice
+## ⚖️ License & Legal Notice
 
-All source code, structure, and implementation details in this repository are original work created by the author.  
-While ideas cannot be copyrighted, the **actual code, logic, file structure, and documentation are protected intellectual property**.
+This project is licensed under the **GNU General Public License v3.0** — see the [LICENSE](LICENSE) file for details.
 
-You may view, use, or modify the code under the terms of the selected license, but **copying the project as‑is, redistributing it without attribution, or claiming ownership of the code is not permitted**.
+You are free to use, study, modify, and share this code, as long as any distributed version keeps the same license, includes the original copyright notice, and credits the author.
 
-This project is provided for educational and experimental purposes.
+This tool is intended for **educational purposes and authorized testing only**. Only scan networks and devices you own or have explicit permission to test.
 
 ---
 
