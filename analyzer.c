@@ -44,7 +44,7 @@ void start_analysis(const char *interface) {
     }
 
     printf("Analyzing packets on interface: %s\n", interface);
-    pcap_loop(handle, 0, packet_handler, NULL);
+    pcap_loop(handle, 0, analyze_packet, NULL);
 
     pcap_close(handle);
 }
